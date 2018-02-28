@@ -75,6 +75,8 @@ $ sudo vim /etc/hosts
 To access GeoNode just enter the following url: `http://geonode/` on your web browser. 
 For GeoServer: `http://geonode/geoserver/web/`
 
+To install and running docker and docker-compose, follow this guide `http://docs.geonode.org/en/master/tutorials/install_and_admin/running_docker/index.html`
+
 
 
 Ubuntu
